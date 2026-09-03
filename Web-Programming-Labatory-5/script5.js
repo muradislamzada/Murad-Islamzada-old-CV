@@ -21,8 +21,8 @@ async function məlumatlarıYüklə() {
         "email": "muradislamzada@gmail.com",
         "doğumTarixi": "2000-01-01",
         "təsvir": "Mənim haqqımda qısa məlumat",
-        "ünvan": "Bakı, Qaradağ rayonu, Sahil Qəsəbəsi",
-        "telefon": "050 993 81 06"
+        "ünvan": "-",
+        "telefon": "-"
       },
       "məlumatlar": {
         "Təhsil": [
